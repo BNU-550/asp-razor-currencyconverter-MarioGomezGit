@@ -4,8 +4,28 @@
     ViewData["Title"] = "RCC";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome to Razor Pages</h1>
-    <h2>by Jose Gomes</h2>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div style="background-color:darkcyan">
+    <header class="text-center">
+        <h1 class="display-4">Welcome to Razor Pages</h1>
+        <h2>by @Model.FullName</h2>
+    </header>
+    <br />
+    <form method="post" class="mx-auto" style="width:200px">
+        <p class="col-sm-2">
+            <label for="name">Name</label>
+            <input type="text" placeholder="Your Full Name" asp-for="FullName">
+        </p>
+        <p class="col-sm-4">
+            <label for="email">Email</label>
+            <input type="email" placeholder="Your Email Address" name="email"/>
+        </p>
+        <p class="col-sm-2">
+            <button type="submit" class="btn btn-primary">Register</button>
+        </p>
+        <p class="col-sm-12">
+            @ViewData["Message"]
+        </p>
+        <br />
+    </form>
+    <!--<p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>-->
 </div>
