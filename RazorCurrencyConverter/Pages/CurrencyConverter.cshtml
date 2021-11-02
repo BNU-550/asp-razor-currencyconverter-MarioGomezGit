@@ -1,0 +1,28 @@
+﻿@page
+@model CurrencyConverterModel
+@{
+    ViewData["Title"] = "RCC";
+}
+
+
+<div style="background-color:darkgoldenrod">
+    <header class="text-center">
+        <h1 class="display-4">Currency Converter</h1>
+        <h2>Pounds to Euros</h2>
+    </header>
+    <br />
+    <form method="post" class="mx-auto" style="width:200px">
+        <p class="col-sm-12">
+            <label for="pounds">Pounds</label>
+            <input type="text" placeholder="Amount Pounds" asp-for="AmountPounds">
+        </p>
+        <p class="col-sm-12">
+            <button type="submit" class="btn btn-primary">Convert</button>
+        </p>
+        <p class="col-sm-12">
+            @ViewData["Result"]
+        </p>
+        <br />
+    </form>
+    <!--<p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>-->
+</div>
