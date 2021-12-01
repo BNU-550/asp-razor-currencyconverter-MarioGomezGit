@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gomez\\source\\repos\\MvcContosoUniversity\\MvcContosoUniversity\\MvcContosoUniversity.csproj": {}
+    "C:\\Users\\Gomez\\Documents\\GitHub\\asp-razor-currencyconverter-MarioGomezGit\\MvcContosoUniversity\\MvcContosoUniversity\\MvcContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gomez\\source\\repos\\MvcContosoUniversity\\MvcContosoUniversity\\MvcContosoUniversity.csproj": {
+    "C:\\Users\\Gomez\\Documents\\GitHub\\asp-razor-currencyconverter-MarioGomezGit\\MvcContosoUniversity\\MvcContosoUniversity\\MvcContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gomez\\source\\repos\\MvcContosoUniversity\\MvcContosoUniversity\\MvcContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\Gomez\\Documents\\GitHub\\asp-razor-currencyconverter-MarioGomezGit\\MvcContosoUniversity\\MvcContosoUniversity\\MvcContosoUniversity.csproj",
         "projectName": "MvcContosoUniversity",
-        "projectPath": "C:\\Users\\Gomez\\source\\repos\\MvcContosoUniversity\\MvcContosoUniversity\\MvcContosoUniversity.csproj",
+        "projectPath": "C:\\Users\\Gomez\\Documents\\GitHub\\asp-razor-currencyconverter-MarioGomezGit\\MvcContosoUniversity\\MvcContosoUniversity\\MvcContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\Gomez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gomez\\source\\repos\\MvcContosoUniversity\\MvcContosoUniversity\\obj\\",
+        "outputPath": "C:\\Users\\Gomez\\Documents\\GitHub\\asp-razor-currencyconverter-MarioGomezGit\\MvcContosoUniversity\\MvcContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

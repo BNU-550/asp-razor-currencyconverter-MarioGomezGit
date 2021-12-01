@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = MvcContosoUniversity
-build_property.ProjectDir = C:\Users\Gomez\source\repos\MvcContosoUniversity\MvcContosoUniversity\
+build_property.ProjectDir = C:\Users\Gomez\Documents\GitHub\asp-razor-currencyconverter-MarioGomezGit\MvcContosoUniversity\MvcContosoUniversity\
