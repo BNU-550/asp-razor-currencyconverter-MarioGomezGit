@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qR+5mGUjoKqc0M/dxEKSpTX9KO5ylTE23HgOAkv415ZSTM+jqJvlSEhRu4sLjqCDGeaodNYfEYS7RQ8DbzEgSw==",
+  "dgSpecHash": "WKphEutWo1frUKN1XdxwC267QC0w3f+cDGlHXf9pN111MMXx6crvXwGQXjYbCPsOhd/OCialRj4hjdfE86RxcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gomez\\Documents\\GitHub\\asp-razor-currencyconverter-MarioGomezGit\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+  "projectFilePath": "C:\\Users\\Gomez\\source\\repos\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gomez\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gomez\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.0\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.0.nupkg.sha512",

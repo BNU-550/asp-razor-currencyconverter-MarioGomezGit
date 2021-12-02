@@ -302,3 +302,4 @@ C:\Users\Gomez\Documents\GitHub\asp-razor-currencyconverter-MarioGomezGit\Contos
 C:\Users\Gomez\Documents\GitHub\asp-razor-currencyconverter-MarioGomezGit\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.pdb
 C:\Users\Gomez\Documents\GitHub\asp-razor-currencyconverter-MarioGomezGit\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.genruntimeconfig.cache
 C:\Users\Gomez\Documents\GitHub\asp-razor-currencyconverter-MarioGomezGit\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.CopyComplete
+C:\Users\Gomez\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
